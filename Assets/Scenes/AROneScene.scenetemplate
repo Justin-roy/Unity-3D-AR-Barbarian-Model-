@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: AROneScene
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: a87e2875a8c0fc94bae7f93926c8f6da, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 46857570cfb7abd4cbedae7d30b7dc00, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 36d23f014be285d4f8c613c55a606793, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 0445816b09919c74ead2df9a0fc65e17, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: af0a8c8b851cc244b96d67ee07e76ce8, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 9e478f052d1a4d149a19b75fe55c36e0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 412101199441fca46a82cf96428a4489, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: e248d1d5781a7b443841818cb6aec2dd, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: b05c6f0444b771e4c94ea60e1d9c7c3f, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 93fa1a7b6c78cdd4f9c43df143b22830, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 433e204e29c577b4ba2314ca6f225800, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: a24d13bc12cc4b05a5527c9768bbeffe, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 100028, guid: 859c3def7b0fdca4ba4a59bb97a3cb47, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -1121539586, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 724a80f104a481849809405a76cceff0, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
